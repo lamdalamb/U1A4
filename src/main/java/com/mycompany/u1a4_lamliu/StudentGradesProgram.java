@@ -13,6 +13,8 @@ public class StudentGradesProgram extends javax.swing.JFrame {
     /**
      * Creates new form NewJFrame
      */
+    //this i s a comment
+    
     String[][] classGrades = new String[30][6];
     int arrayIndex = 0;
     public StudentGradesProgram() {
